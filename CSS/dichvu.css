@@ -1,0 +1,54 @@
+body {
+  font-family: "Times New Roman", Times, serif;
+  font-size: 14px;
+  width: 100%;
+  margin: 0px auto;
+  background: #fee3ec;
+}
+.menu ul li a.active3 {
+  background: white;
+}
+article {
+  height: 740px;
+  width: 100%;
+  background: #feece9;
+}
+.left {
+  height: 190px;
+  width: 350px;
+  border-radius: 5px;
+  background-color: FFBBBB;
+  position: relative;
+  top: 200px;
+  left: 10px;
+  float: left;
+}
+.right {
+  float: left;
+  height: 300px;
+  width: 75%;
+  background-color: azure;
+  position: relative;
+  top: 120px;
+  left: 80px;
+}
+
+.left ul li {
+  list-style: none;
+  border: 1px solid black;
+  background-color: #f999b7;
+  font-size: large;
+  padding: 8px 5px 8px 50px;
+}
+.left ul li a {
+  text-decoration: none;
+  color: darkblue;
+}
+.left ul {
+  margin-right: 50px;
+  margin-top: 30px;
+}
+.left ul li:hover {
+  background-color: wheat;
+  color: black;
+}

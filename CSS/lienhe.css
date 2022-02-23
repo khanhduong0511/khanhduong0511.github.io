@@ -1,0 +1,37 @@
+body {
+  font-family: "Times New Roman", Times, serif;
+  font-size: 14px;
+  width: 100%;
+  margin: 0px auto;
+  background: #fee3ec;
+}
+.menu ul li a.active4 {
+  background: white;
+}
+article {
+  height: 1100px;
+  width: 100%;
+  background: #feece9;
+}
+
+.container {
+  width: 100%;
+  position: relative;
+  top: 130px;
+}
+.map-container {
+  margin-left: 270px;
+}
+.container h2 {
+  margin-left: 270px;
+}
+.adds {
+  margin-left: 270px;
+}
+.adds h3 {
+  float: left;
+  margin: 0 0 0 200px;
+}
+.adds h2 {
+  margin-left: 350px;
+}

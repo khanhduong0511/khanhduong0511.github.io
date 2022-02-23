@@ -1,0 +1,31 @@
+body {
+  font-family: "Times New Roman", Times, serif;
+  font-size: 14px;
+  width: 100%;
+  margin: 0px auto;
+  background: #fee3ec;
+}
+.menu ul li a.active1 {
+  background: white;
+}
+article {
+  height: 10600px;
+  width: 100%;
+  background: #feece9;
+}
+table {
+  margin: 0 auto;
+  width: 80%;
+
+  position: relative;
+  top: 100px;
+}
+
+tr th {
+  font-size: 30px;
+  color: #ff5da2;
+}
+tr td {
+  font-size: 20px;
+  height: 50px;
+}
